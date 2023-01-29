@@ -1,0 +1,6 @@
+Ping Scan: nmap -sn <target IP>
+TCP SYN Scan: nmap -sS <target IP>
+TCP Connect Scan: nmap -sT <target IP>
+UDP Scan: nmap -sU <target IP>
+ARP Scan: nmap -sA <target IP>
+IP Protocol Scan: nmap -sO <target IP>
